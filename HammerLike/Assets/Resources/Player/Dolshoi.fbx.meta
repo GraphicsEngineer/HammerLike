@@ -35,32 +35,32 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dolshoi_Bread.001
-    second: {fileID: 2100000, guid: af87898c4134f034a8a88eb613ee2903, type: 2}
+    second: {fileID: 2100000, guid: 43b624daef4558942bd8ee242da3f5d8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dolshoi_Face.002
-    second: {fileID: 2100000, guid: 66d29a0b07b71cd4ab4e073516fb34d5, type: 2}
+    second: {fileID: 2100000, guid: 8bb9cdc6e0db7de45a3db020e402cceb, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dolshoi_Hair.001
-    second: {fileID: 2100000, guid: ec9c87d806ff352409bb95f1e4c98035, type: 2}
+    second: {fileID: 2100000, guid: 99868d5ed8102a54eb1f43b88b0e5173, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dolshoi_Pants.001
-    second: {fileID: 2100000, guid: 7206e1b2de202fe438edcbf587997168, type: 2}
+    second: {fileID: 2100000, guid: 9c32591569fc6d0419d46d900a738bef, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dolshoi_Skin.001
-    second: {fileID: 2100000, guid: 49d6b98c9469eb14c90abac859d7884c, type: 2}
+    second: {fileID: 2100000, guid: 894a929ddab56a94aa6305169c4c8d26, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dolshoi_Skin.002
-    second: {fileID: 2100000, guid: ab5fe8524c46ad547964021279949f1f, type: 2}
+    second: {fileID: 2100000, guid: 894a929ddab56a94aa6305169c4c8d26, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

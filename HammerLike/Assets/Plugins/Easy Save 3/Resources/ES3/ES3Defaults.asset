@@ -30,10 +30,13 @@ MonoBehaviour:
     referenceMode: 2
     serializationDepthLimit: 64
     assemblyNames:
+    - Abiogenesis3d.Shared
+    - Abiogenesis3d.UPixelator
     - Assembly-CSharp
     - Assembly-CSharp-firstpass
     - DOTween.Modules
     - DOTweenPro.Scripts
+    - KinoBloom.Runtime
     - LeTai.TrueShadow
     - LeTai.TrueShadow.Demo
     - Lofelt.NiceVibrations
@@ -48,10 +51,13 @@ MonoBehaviour:
     - MoreMountains.Feedbacks.TextMeshPro
     - MoreMountains.Feedbacks.URP
     - MoreMountains.Tools
+    - MultiCameraEvents
     - Nementic.SelectionUtility.Runtime
     - Nementic.SelectionUtility.Samples
     - ProPixelizer
     - sc.stylizedwater2.runtime
+    - ToonyColorsPro.Runtime
+    - ToonyColorsPro2.Demo
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1
